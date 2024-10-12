@@ -24,8 +24,9 @@ $apps = @(
     "WinDirStat.WinDirStat",
     "WinRAR.WinRAR",
     "WireGuard.WireGuard",
-	"LizardByte.Sunshine",
-	"Microsoft.VisualStudioCode"
+    "LizardByte.Sunshine",
+    "Microsoft.VisualStudioCode"
+    "Discord.Discord"
 )
 
 # Function to check if Winget is installed
