@@ -1,0 +1,26 @@
+{
+  "packages": [
+    "7zip.7zip",
+    "AutoHotkey.AutoHotkey",
+    "EpicGames.EpicGamesLauncher",
+    "Mozilla.Firefox",
+    "GIMP.GIMP",
+    "Git.Git",
+    "Google.Chrome",
+    "Greenshot.Greenshot",
+    "Notepad++.Notepad++",
+    "NSSM.NSSM",
+    "Playnite.Playnite",
+    "QBittorrent.QBittorrent",
+    "SABnzbd.SABnzbd",
+    "Spotify.Spotify",
+    "Valve.Steam",
+    "Sunshine.Sunshine",
+    "Ubisoft.UbisoftConnect",
+    "Ubisoft.Uplay",
+    "Vortex.Vortex",
+    "WinDirStat.WinDirStat",
+    "WinRAR.WinRAR",
+    "WireGuard.WireGuard"
+  ]
+}
