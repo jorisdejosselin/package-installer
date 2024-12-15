@@ -27,7 +27,8 @@ $apps = @(
     "LizardByte.Sunshine",
     "Microsoft.VisualStudioCode",
     "Discord.Discord",
-    "AgileBits.1Password"
+    "AgileBits.1Password",
+    "Spotify.Spotify"
 )
 
 # Function to check if Winget is installed
